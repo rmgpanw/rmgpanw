@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an ophthalmologist based in London. I enjoy learning and teaching about all things data science!
+I am an ophthalmologist based at Moorfields Eye Hospital and University College London. I enjoy learning and teaching about all things data science!
 
 <!--
 **rmgpanw/rmgpanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
